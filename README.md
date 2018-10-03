@@ -2,12 +2,12 @@
 
 Visit Beta:
 
-1. http://bit.ly/2OwLn8D
+1. https://suchr.github.io/suchr/
 
-2. http://bit.do/suchr
+Alternative Links:
 
-3. https://is.gd/suchr
+2. http://bit.ly/suchrbetaversion
 
-4. http://t1p.de/v6sv
+3. http://bit.do/suchr
 
-5. https://goo.gl/6df4FG
+4. https://is.gd/suchr
