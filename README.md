@@ -1,4 +1,4 @@
-![Suchr](one.jpg)
+![Suchr](one.png)
 # Suchr - Die anonyme Suchmaschiene!
 
 
