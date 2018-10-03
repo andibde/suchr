@@ -1,4 +1,6 @@
+![Suchr](one.jpg)
 # Suchr - Die anonyme Suchmaschiene!
+
 
 Visit Beta:
 
