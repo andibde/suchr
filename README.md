@@ -2,14 +2,10 @@
 # Suchr - Die anonyme Suchmaschiene!
 
 
-Visit Beta:
+We are moved to:
 
-1. https://suchr.github.io/suchr/
+1. http://suchr.000webhostapp.com/
 
-Alternative Links:
+Old: 
 
-2. http://bit.ly/suchrbetaversion
-
-3. http://bit.do/suchr
-
-4. https://is.gd/suchr
+1. https://realyellowdev.github.io/suchr/
