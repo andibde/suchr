@@ -8,4 +8,4 @@ We are moved to:
 
 Old: 
 
-1. https://realyellowdev.github.io/suchr/
+1. https://andibde.github.io/suchr/
